@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #222629;
+}
+
+hr{
+    width: 80%;
+}
+
+nav{
+    background-color: #61892f;
+    justify-items: center;
+    position: fixed;
+    width: 100%;
+}
+
+.profile_pic{
+    border-radius: 100%;
+    width: 50px;
+    padding: 15px;
+    vertical-align: middle;
+    aspect-ratio: 1;
+}
+
+.nav_option{
+    display: inline-block;
+    font-size: 20px;
+    line-height: 80px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+}
+
+.nav_option:hover{
+    background-color: #86c232;
+}
+
+section{
+    color: white;
+    padding: 100px;
+}
+/* 
+#contact{
+    
+} */
